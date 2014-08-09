@@ -1,0 +1,8 @@
+<persistence xmlns="http://java.son.com/xml/ns/persistance"
+			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			xsi:schemaLocation="http://java.son.com/xml/ns/persistance http://java.son.com/xml/ns/persistance_2_1.xsd"
+			version="2.1">
+		<persistence-unit name="punit">
+		</persistence-unit>
+			
+</persistence>
